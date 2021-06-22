@@ -1,0 +1,35 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\Lab_19.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\Lab_19.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\Lab_19.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Buffers.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Memory.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Numerics.Vectors.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Text.Json.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.ValueTuple.dll
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Buffers.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Memory.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Numerics.Vectors.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Text.Json.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\bin\Release\System.ValueTuple.xml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab 8.csprojAssemblyReference.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\MainWindow.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\App.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19_MarkupCompile.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19_MarkupCompile.lref
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\MainWindow.baml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19.g.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab 8.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab 8.csproj.CopyComplete
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 8\obj\Release\Lab_19.pdb

@@ -1,0 +1,13 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\bin\Release\Lab_16.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\bin\Release\Lab_16.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\bin\Release\Lab_16.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\MainWindow.baml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\MainWindow.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\App.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab_16_MarkupCompile.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab_16.g.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab_16.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab 5.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab_16.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 5\obj\Release\Lab_16.pdb

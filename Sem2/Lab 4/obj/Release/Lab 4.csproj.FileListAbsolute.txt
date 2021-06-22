@@ -1,0 +1,15 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\bin\Release\Lab_15_Calculator.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\bin\Release\Lab_15_Calculator.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\bin\Release\Lab_15_Calculator.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab 4.csprojAssemblyReference.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\MainWindow.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\App.g.cs
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator_MarkupCompile.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator_MarkupCompile.lref
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\MainWindow.baml
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator.g.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab 4.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 4\obj\Release\Lab_15_Calculator.pdb

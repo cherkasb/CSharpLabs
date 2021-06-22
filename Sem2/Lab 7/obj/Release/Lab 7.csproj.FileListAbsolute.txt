@@ -1,0 +1,10 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\bin\Release\Lab 18.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\bin\Release\Lab 18.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\bin\Release\Lab 18.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab 7.csprojAssemblyReference.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab_18.MainForm.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab_18.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab 7.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab 18.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 7\obj\Release\Lab 18.pdb

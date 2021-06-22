@@ -1,0 +1,10 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\bin\Release\Lab 14.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\bin\Release\Lab 14.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\bin\Release\Lab 14.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab 3.csprojAssemblyReference.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab_14.MainForm.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab_14.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab 3.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab 14.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 3\obj\Release\Lab 14.pdb

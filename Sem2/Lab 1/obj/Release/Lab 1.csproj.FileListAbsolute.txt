@@ -1,0 +1,9 @@
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\bin\Release\Lab 12 Calculator.exe.config
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\bin\Release\Lab 12 Calculator.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\bin\Release\Lab 12 Calculator.pdb
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab_12_Calculator.CalculatorForm.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab_12_Calculator.Properties.Resources.resources
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab 1.csproj.GenerateResource.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab 12 Calculator.exe
+C:\Users\cherc\Downloads\Laboratory-work-master\Laboratory work\Lab 1\obj\Release\Lab 12 Calculator.pdb
